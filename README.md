@@ -1,12 +1,10 @@
-# 🔐 IFCT0109 - Seguridad Informática
+# IFCT0109 - Seguridad Informática
 
 ![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow)
 ![Nivel](https://img.shields.io/badge/Nivel-3-blue)
 ![Familia](https://img.shields.io/badge/Familia-Informática%20y%20Comunicaciones-informational)
 
-Repositorio de materiales y prácticas del certificado de profesionalidad 
-**IFCT0109 - Seguridad Informática en Redes de Comunicaciones**, 
-perteneciente a la familia profesional de Informática y Comunicaciones (Nivel 3).
+Repositorio de materiales y prácticas del certificado de profesionalidad **IFCT0109 - Seguridad Informática**.
 
 ---
 
@@ -24,10 +22,7 @@ perteneciente a la familia profesional de Informática y Comunicaciones (Nivel 3
 
 ## 👤 Autor
 
-**Gabriel Urbano** · [GitHub](https://github.com/dargabi)
+**Gabriel Urbano García**
 
----
-
-## 📄 Licencia
-
-Este repositorio es de uso educativo.
+[![GitHub](https://img.shields.io/badge/GitHub-dargabi-181717?logo=github)](https://github.com/dargabi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Urbano%20García-0077B5?logo=linkedin)](https://www.linkedin.com/in/gabriel-urbano-garcia/)
