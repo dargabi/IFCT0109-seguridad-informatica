@@ -19,6 +19,13 @@ Repositorio de materiales y prácticas del certificado de profesionalidad **IFCT
 | MF0490_3 | Gestión de servicios en el sistema informático |
 
 ---
+## 🔒 Verificación de integridad (SHA-256)
+
+| Archivo | SHA-256 |
+|---------|---------|
+| tarea-sei-01.pdf | 6137d6f597ca4cb31af4c21a55d5755ef8f34e384ec2c6f7c112c705e944d06f |
+| lab-01-escaneo-puertos.ipynb | 8b7feaeda51e1c612e8f49c83a377cff1ddbbdc656246b02d30a13052f378c29 |
+| lab-01-escaneo-puertos.pdf | c6278e3caaa03b4cbdbc507446a976644dcfd199146de74c97da5676bed0bb28 |
 
 ## 👤 Autor
 
